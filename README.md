@@ -5,3 +5,4 @@ Here are MATLAB implementations of following algorithms.
 2. LDA Function (offline).
 3. LDA Program (online).
 4. Linear Regression  (First implemented offline, later implemented online by adding a datapoint)
+5. Singular Value Decomposition of an Image
